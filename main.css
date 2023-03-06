@@ -1,0 +1,16 @@
+.ngo_phong{
+    background-color: rgb(164, 61, 61);
+   width: 200px;
+   height: 400px;
+}
+img{
+    height: 150px;
+    border-radius: 10px;
+    box-shadow: 150px;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+div{
+    border-radius: 25px;
+}
